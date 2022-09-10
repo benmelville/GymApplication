@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.159" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_unchecked_circle.xml" value="0.167" />
+        <entry key="app/src/main/res/layout/activity_all_trainings.xml" value="0.3052536231884058" />
+        <entry key="app/src/main/res/layout/activity_edit.xml" value="0.3099147730926854" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_plan.xml" value="0.3278985507246377" />
+        <entry key="app/src/main/res/layout/activity_training.xml" value="0.3052536231884058" />
+        <entry key="app/src/main/res/layout/dialog_plan_details.xml" value="0.3278985507246377" />
+        <entry key="app/src/main/res/layout/plan_item.xml" value="0.3278985507246377" />
+        <entry key="app/src/main/res/layout/training_item.xml" value="0.3052536231884058" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.159" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.159" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3052536231884058" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
